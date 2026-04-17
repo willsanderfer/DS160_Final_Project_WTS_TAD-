@@ -1,4 +1,4 @@
-# DS160_Final_Project_XXX_YYY
+# DS160_Final_Project_WTS_TAD
 
 **DS160-01 Introduction to Data Science — Final Project**
 *Bellarmine University*
@@ -14,8 +14,7 @@ This project uses the 2013 IPEDS dataset of 1,534 U.S. higher education institut
 ## Team
 
 - **Will Sanderfer** — wsanderfer@bellarmine.edu
-- **Partner Name** — partner@bellarmine.edu
-
+- **Taylor Dunkle** — tdunkle@bellarmine.edu
 ## Repository Structure
 
 ```
