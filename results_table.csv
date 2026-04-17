@@ -1,5 +1,0 @@
-Experiment,Description,N_train,N_test,N_features,R2_train,R2_test,RMSE_log_test,RMSE_students_test,MAE_students_test
-Exp 1,"Feature set A, 80/20 split",1093,274,4,0.5858,0.5879,0.6975,64469.0,9950.0
-Exp 2,"Feature set A, 70/30 split",956,411,4,0.5769,0.6126,0.6934,45819.0,7032.0
-Exp 3,"Feature set B, 80/20 split",942,236,12,0.7945,0.7764,0.5378,8046.0,3243.0
-Exp 4,"Feature set B, 70/30 split",824,354,12,0.7945,0.7803,0.5381,11892.0,3678.0
